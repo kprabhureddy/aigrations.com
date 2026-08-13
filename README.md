@@ -38,4 +38,4 @@ Whether you are exploring AI, modernizing integrations, or automating a process 
 
 ---
 
-<small>&copy; 2026 AI Grations. All rights reserved.</small>
+<small>&copy; 2026 AIGrations. All rights reserved.</small>
