@@ -1,9 +1,11 @@
-AI GRATIONS — NETLIFY UPLOAD
+AI GRATIONS — NETLIFY DEPLOYMENT
 
-Upload this entire folder to Netlify using:
+Deploy this entire folder to Netlify, including index.html and the assets
+directory. If this GitHub repository is connected to Netlify, pushes to the
+primary branch deploy automatically.
+
+For a manual deployment, use:
 Projects > Add new project > Deploy manually
 
-The website is fully contained in index.html.
-
-Note: The contact button uses hello@aigrations.com. Configure email hosting
-for that address or replace it in index.html before launch.
+Note: Contact links use hello@aigrations.com. Configure email hosting for that
+address or replace it in index.html before launch.
